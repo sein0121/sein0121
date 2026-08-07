@@ -39,7 +39,7 @@
 ---
 
 ### 💼 Key Projects
-
+<!-- 
 <details>
 <summary><b>🧠 신한라이프 생성형AI 활용 PF시스템 자동화 (AIPF)</b> — 애자일소다 · 2025.07 ~ 2025.12</summary>
 <br/>
@@ -85,7 +85,7 @@ BoM·표준 스펙 문서 기반, LLM과 DLA(Document Layout Analysis)를 활용
 학생/기관 사용자를 위한 학습 관리 웹 서비스 백엔드 개발 — Spring Boot 기반 REST API, 역할별 권한 분리, JPA 기반 도메인 모델링
 
 `Spring Boot` `Java` `MySQL` `JPA`
-</details>
+</details> -->
 
 ---
 
