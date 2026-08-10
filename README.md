@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="./images/icon.png" width="210" alt="Sein Lee" />
+  <img src="./images/icon.png" width="200" alt="Sein Lee" />
 </p>
 
-<h1 align="center">Hi, I'm Sein Lee 👋</h1>
-<h3 align="center">문제를 구조적으로 바라보는 백엔드 개발자</h3>
+<p align="center">
+  <img src="./images/title.svg" alt="Hi, I'm Sein Lee 👋" height="48" />
+</p>
+<!-- <h3 align="center">문제를 구조적으로 바라보는 백엔드 개발자</h3> -->
 
 <p align="center">
   <a href="https://velog.io/@baby_potato"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" /></a>
@@ -46,6 +48,7 @@ API 설계부터 데이터 처리, 비동기 시스템, 문서 분석 및 시스
 **Integration**
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat&logo=openai&logoColor=white)
 
 ---
 
@@ -125,6 +128,7 @@ AIOCR 및 생성형 AI 기반 업무 자동화 시스템의 백엔드 개발과 
 **주요 업무**
 - Spring Boot / FastAPI 기반 백엔드 API 개발
 - OCR 및 LLM 기반 문서 분석 파이프라인 구축
+- LLM/VLM 대상 문서 정보 추출 프롬프트 설계 및 튜닝
 - Redis + Celery 기반 비동기 처리 시스템 개발
 - Docker / Kubernetes 기반 애플리케이션 배포 및 운영
 - 고객사 환경에 따른 API / 파일 연동 시스템 개발
