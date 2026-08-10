@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="./images/icon.png" width="210" alt="Sein Lee" />
+  <img src="./images/icon.png" width="200" alt="Sein Lee" />
 </p>
 
-<h1 align="center">Hi, I'm Sein Lee 👋</h1>
-<h3 align="center">문제를 구조적으로 바라보는 백엔드 개발자</h3>
+<p align="center">
+  <img src="./images/title.svg" alt="Hi, I'm Sein Lee 👋" height="48" />
+</p>
+<!-- <h3 align="center">문제를 구조적으로 바라보는 백엔드 개발자</h3> -->
 
 <p align="center">
   <a href="https://velog.io/@baby_potato"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" /></a>
