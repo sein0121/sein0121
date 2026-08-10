@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/icon.png" width="160" alt="Sein Lee" />
+  <img src="./images/icon.png" width="200" alt="Sein Lee" />
 </p>
 
 <h1 align="center">Hi, I'm Sein Lee 👋</h1>
