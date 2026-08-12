@@ -120,7 +120,7 @@ HTTP 402 상태코드 기반 **x402 결제 프로토콜**을 로컬에서 구현
 ## 💼 Career
 
 ### 애자일소다 | 플랫폼컨설팅팀
-**선임연구원 · Backend Developer**
+**책임연구원 · Backend Developer**
 2022.05 ~ Present
 
 AIOCR 및 생성형 AI 기반 업무 자동화 시스템의 백엔드 개발과 고객사 시스템 연동을 담당했습니다.
