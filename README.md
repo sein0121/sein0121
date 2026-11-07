@@ -8,7 +8,7 @@
 <!-- <h3 align="center">문제를 구조적으로 바라보는 백엔드 개발자</h3> -->
 
 <p align="center">
-  <a href="https://velog.io/@baby_potato"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" /></a>
+  <!-- <a href="https://velog.io/@baby_potato"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" /></a> -->
   <a href="mailto:sseny0121@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
